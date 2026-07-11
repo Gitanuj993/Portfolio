@@ -3,7 +3,7 @@ It is a dedicated portfolio or Personal Website of Anuj!
 
 
 ## Badges & info !
-
+?
 
 
 ## Features and Details
@@ -12,6 +12,7 @@ It is a dedicated portfolio or Personal Website of Anuj!
 
 
 ## Tech Stack Used 
+?
 
 ## Getting Started | Quick Start
 
@@ -22,21 +23,8 @@ git clone https://github.com/Gitanuj993/portfolio.git
 cd portfolio
 ```
 
-Install dependencies:
 
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-
-
-## Project Structue 
+## Project Structure 
 ?
 
 ## Contributing
