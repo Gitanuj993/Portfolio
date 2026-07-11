@@ -24,7 +24,7 @@ cd portfolio
 ```
 
 
-## Project Structue 
+## Project Structure 
 ?
 
 ## Contributing
